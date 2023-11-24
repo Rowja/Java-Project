@@ -1,0 +1,8 @@
+
+
+Manager Name: Helen
+Manager ID: 3451
+Manager Registration No: 44456
+Manager Email Id: helen@gamil.com
+Manager Nationality:Bangladeshi
+Manager Salary:40000.0

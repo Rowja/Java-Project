@@ -1,0 +1,50 @@
+
+
+Customer Name: Helen
+Customer ID: 20-43996-2
+Customer Address: Bogura
+Customer NidNo: 456700
+Customer Nationality:Bangladeshi
+Customer ContactNo:017658489
+
+Customer Name: Lara
+Customer ID: 20-567-89
+Customer Address: Dhaka
+Customer NidNo: 2345
+Customer Nationality:Bangladeshi
+Customer ContactNo:017466748
+
+Customer Name: James
+Customer ID: 20-5678-8
+Customer Address: Bogura
+Customer NidNo: 456789
+Customer Nationality:Bangladesh
+Customer ContactNo:01667789
+
+Customer Name: Lily 
+Customer ID: 20-43976-2
+Customer Address: Rangpur
+Customer NidNo: 2345678
+Customer Nationality:Bangladeshi
+Customer ContactNo:01345647
+
+Customer Name: Henry
+Customer ID: 5564-474-90
+Customer Address: Dhaka
+Customer NidNo: 8393892
+Customer Nationality:Bangladeshi
+Customer ContactNo:0128377
+
+Customer Name: Binky
+Customer ID: 24353
+Customer Address: Dhaka
+Customer NidNo: 327824
+Customer Nationality:Bangladeshi
+Customer ContactNo:0137748
+
+Customer Name: Helen
+Customer ID: 29404
+Customer Address: Dhaka
+Customer NidNo: 83944
+Customer Nationality:Bangladeshi
+Customer ContactNo:01822221

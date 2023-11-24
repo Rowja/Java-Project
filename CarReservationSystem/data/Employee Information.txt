@@ -1,0 +1,33 @@
+
+
+Employee Name: Bella
+Employee ID: 345-67-89
+Employee Address: Dhaka
+Employee ContactNo: 0123445
+Employee Nationality:Bangladeshi
+Employee Joining Date:27/4/2020
+Employee Salary:20000.0
+
+Employee Name: Jully 
+Employee ID: 3457-89-67
+Employee Address: Rajshahi
+Employee ContactNo: 0723332
+Employee Nationality:Bangladeshi
+Employee Joining Date:27/4/2020
+Employee Salary:20000.0
+
+Employee Name: Any
+Employee ID: 38484-494-494
+Employee Address: Dhaka
+Employee ContactNo: 02873662
+Employee Nationality:Bangladeshi
+Employee Joining Date:4/5/2020
+Employee Salary:25000.0
+
+Employee Name: Jannat
+Employee ID: 38333
+Employee Address: Rangpur
+Employee ContactNo: 0183838
+Employee Nationality:Bangladeshi
+Employee Joining Date:3/4/2020
+Employee Salary:25000.0
